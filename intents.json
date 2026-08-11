@@ -1,0 +1,49 @@
+{
+  "intents": [
+    {
+      "tag": "internship",
+      "patterns": [
+        "internship",
+        "find internship",
+        "AI internship",
+        "data science internship"
+      ],
+      "responses": [
+        "You can explore AI, Data Science, Machine Learning and Python internships."
+      ]
+    },
+    {
+      "tag": "skills",
+      "patterns": [
+        "what skills should I learn",
+        "AI skills",
+        "data science skills"
+      ],
+      "responses": [
+        "Learn Python, Pandas, NumPy, Machine Learning, SQL and basic statistics."
+      ]
+    },
+    {
+      "tag": "courses",
+      "patterns": [
+        "course",
+        "AI course",
+        "data science course"
+      ],
+      "responses": [
+        "Start with Python, statistics, data analysis and machine learning."
+      ]
+    },
+    {
+      "tag": "hello",
+      "patterns": [
+        "hello",
+        "hi",
+        "hey"
+      ],
+      "responses": [
+        "Hello! How can I help you with your studies or internship?"
+      ]
+    }
+  ]
+}
